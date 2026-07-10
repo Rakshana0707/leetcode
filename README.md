@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rakshana0707/leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Rakshana0707/leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rakshana0707/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rakshana0707/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rakshana0707/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
