@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rakshana0707/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1021-remove-outermost-parentheses](https://github.com/Rakshana0707/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
 | ------- |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Rakshana0707/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rakshana0707/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Rakshana0707/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
