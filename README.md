@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rakshana0707/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Rakshana0707/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rakshana0707/leetcode/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Rakshana0707/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rakshana0707/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshana0707/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rakshana0707/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Rakshana0707/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Rakshana0707/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Rakshana0707/leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
