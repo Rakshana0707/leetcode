@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rakshana0707/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rakshana0707/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rakshana0707/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Rakshana0707/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rakshana0707/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rakshana0707/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Rakshana0707/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Rakshana0707/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rakshana0707/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Rakshana0707/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rakshana0707/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Rakshana0707/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rakshana0707/leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Rakshana0707/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Rakshana0707/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rakshana0707/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Rakshana0707/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -119,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rakshana0707/leetcode/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rakshana0707/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rakshana0707/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
