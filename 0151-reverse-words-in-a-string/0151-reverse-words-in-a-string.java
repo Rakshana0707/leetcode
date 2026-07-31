@@ -7,7 +7,6 @@ class Solution {
 
         while (i >= 0) {
 
-            // Skip spaces
             while (i >= 0 && s.charAt(i) == ' ')
                 i--;
 
@@ -15,8 +14,7 @@ class Solution {
                 break;
 
             int j = i;
-
-            // Find beginning of current word
+            
             while (j >= 0 && s.charAt(j) != ' ')
                 j--;
 
